@@ -75,7 +75,7 @@ const Navbar = () => {
                     {/* Profile (Mobile Compatible) */}
                     <div onMouseEnter={() => setShowAccountMenu(true)} onMouseLeave={() => setShowAccountMenu(false)} className="flex flex-row items-center gap-2 cursor-pointer relative">
                         <div className="w-4 h-4 lg:w-8 lg:h-8 rounded-md overflow-hidden">
-                            <img src="/images/default-blue.png" alt="VOD Profile Image"/>
+                            <img src="/images/default-blue.png" alt="netflix Profile Image"/>
                         </div>
                         <RiArrowDownSFill className={`text-xl text-white transition ${showAccountMenu ? 'rotate-180' : 'rotate-0'}`}/>
                         <AccountMenu visible={showAccountMenu}/>
