@@ -2,7 +2,11 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
 
-<h1 align="center">NETFLIX</h1>
+<h1 align="center">NETFLIX - WinniCode</h1>
+<h2 align="center">GARUDA TEKNOLOGI</h2>
+    
+<p align="center">A simple Netflix clone using HTML, CSS, and JavaScript.</p>
+<p align="center">This project is a part of the WinniCodee's learning journey. 
 
 <p align="center">
   <a href="./public/images/logo.png" target="_blank">
